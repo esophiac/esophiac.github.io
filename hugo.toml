@@ -4,7 +4,7 @@ title = 'My New Hugo Site'
 theme = 'gokarna'
 
 # remove this if it doesn't work
-# step 5 of pushing site to s github repository
+# step 5 of pushing site to a github repository
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -40,3 +40,48 @@ theme = 'gokarna'
     pre = "<span data-feather='github'></span>"
     post = ""
 
+
+# changing the content of the front page
+
+[params]
+  # Choose the color shown when hyperlinks are hovered over
+  accentColor = "#20D4D1"
+
+  # Resource URL for the site avatar (home page and header)
+  avatarURL = "/images/avatar.png"
+
+  # Describe the avatar for screen readers
+  avatarAltText = "avatar of forest path"
+
+  # Set the avatar's size: size-xs, size-s, size-m, size-l & size-xl
+  avatarSize = "size-m"
+
+  # Configure how post dates are displayed
+  dateFormat = "January 2, 2006"
+  
+  # Home page meta description
+  description = "Adventure awaits!"
+
+  # Footer text (i.e. author/project name)
+  footer = "MSDS 431 Assignment 2"
+
+  # Define SEO keywords
+  metaKeywords = ["blog"]
+
+  # Define how many posts are displayed on the home page
+  # showPostsOnHomePage must be "popular" or "recent"
+  numberPostsOnHomePage = 2
+
+  # Display a "back to top" button on posts and pages: true, false
+  # May not render on smaller screen sizes
+  showBackToTopButton = true
+
+  # Display posts on the home page:
+  # "popular" (order posts by weight)
+  # "recent" (order posts by date)
+  # "", unset (do not display)
+  showPostsOnHomePage = "recent"
+
+  # Show the previous and next post in your timeline: "true", "false"
+  # Incompatible with Weight
+  togglePreviousAndNextButtons = false
