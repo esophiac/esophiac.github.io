@@ -11,6 +11,17 @@ theme = 'gokarna'
 
 [menu]
   [[menu.main]]
+    
+    name = "About Me"
+    url = "/about_me/"
+    weight = 1
+
+    [[menu.main]]
+    name = "Running History"
+    url = "/running_resume/"
+    weight = 2
+    
+    [[menu.main]]
     # Display name
     name = "Posts"
 
@@ -19,12 +30,12 @@ theme = 'gokarna'
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
-    weight = 1
+    weight = 3
 
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 4
     
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
@@ -32,8 +43,8 @@ theme = 'gokarna'
     identifier = "github"
 
     # Absolute URL to external resource
-    url = "https://github.com"
-    weight = 3
+    url = "https://github.com/esophiac/esophiac.github.io"
+    weight = 5
     
     # Surround the menu entry (or name) with HTML content, such as Feather
     # icons: https://feathericons.com
@@ -85,3 +96,11 @@ theme = 'gokarna'
   # Show the previous and next post in your timeline: "true", "false"
   # Incompatible with Weight
   togglePreviousAndNextButtons = false
+
+
+# adding a table of contents
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
