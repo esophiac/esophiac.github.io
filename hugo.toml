@@ -48,7 +48,7 @@ theme = 'gokarna'
   accentColor = "#20D4D1"
 
   # Resource URL for the site avatar (home page and header)
-  avatarURL = "/images/avatar.png"
+  avatarURL = "/images/avatar.webp"
 
   # Describe the avatar for screen readers
   avatarAltText = "avatar of forest path"
