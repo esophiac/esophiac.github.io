@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Running Thoughts'
 theme = 'gokarna'
 
 # remove this if it doesn't work
@@ -9,6 +9,7 @@ theme = 'gokarna'
   [caches.images]
     dir = ':cacheDir/images'
 
+# confiure the navigation bar at the top of the screen
 [menu]
   [[menu.main]]
     
@@ -20,6 +21,11 @@ theme = 'gokarna'
     name = "Running History"
     url = "/running_resume/"
     weight = 2
+
+    [[menu.main]]
+    name = "Sources"
+    url = "/image_citations/"
+    weight = 3
     
     [[menu.main]]
     # Display name
@@ -30,12 +36,12 @@ theme = 'gokarna'
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
+    weight = 5
     
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
@@ -44,7 +50,7 @@ theme = 'gokarna'
 
     # Absolute URL to external resource
     url = "https://github.com/esophiac/esophiac.github.io"
-    weight = 5
+    weight = 6
     
     # Surround the menu entry (or name) with HTML content, such as Feather
     # icons: https://feathericons.com
@@ -65,7 +71,7 @@ theme = 'gokarna'
   avatarAltText = "avatar of forest path"
 
   # Set the avatar's size: size-xs, size-s, size-m, size-l & size-xl
-  avatarSize = "size-m"
+  avatarSize = "size-l"
 
   # Configure how post dates are displayed
   dateFormat = "January 2, 2006"
