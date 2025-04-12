@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gear on Running Thoughts</title>
+    <link>https://example.org/tags/gear/</link>
+    <description>Recent content in Gear on Running Thoughts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/gear/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Running Shoes</title>
+      <link>https://example.org/posts/new-running-shoes/</link>
+      <pubDate>Fri, 11 Apr 2025 20:37:07 -0400</pubDate>
+      <guid>https://example.org/posts/new-running-shoes/</guid>
+      <description>&lt;p&gt;I need to buy new running shoes. The ones I currently have are just about worn out. The treads are showing the white plastic/cushioning underneath.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

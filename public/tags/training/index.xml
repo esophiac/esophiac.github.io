@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on Running Thoughts</title>
+    <link>https://example.org/tags/training/</link>
+    <description>Recent content in Training on Running Thoughts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Plans</title>
+      <link>https://example.org/posts/running-plans/</link>
+      <pubDate>Fri, 11 Apr 2025 20:40:38 -0400</pubDate>
+      <guid>https://example.org/posts/running-plans/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve got the 50k in October, but I&amp;rsquo;m worried I won&amp;rsquo;t train enough without something additional to work towards. I&amp;rsquo;m thinking of signing up for a marathon in the summer. Maybe June/July would be good?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

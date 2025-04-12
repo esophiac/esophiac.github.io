@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Running Thoughts</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Running Thoughts</description>
+    <title>Running on Running Thoughts</title>
+    <link>https://example.org/tags/running/</link>
+    <description>Recent content in Running on Running Thoughts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/running/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Running Plans</title>
       <link>https://example.org/posts/running-plans/</link>
@@ -21,20 +21,6 @@
       <pubDate>Fri, 11 Apr 2025 20:37:07 -0400</pubDate>
       <guid>https://example.org/posts/new-running-shoes/</guid>
       <description>&lt;p&gt;I need to buy new running shoes. The ones I currently have are just about worn out. The treads are showing the white plastic/cushioning underneath.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>https://example.org/posts/my-second-post/</link>
-      <pubDate>Mon, 07 Apr 2025 20:31:46 -0400</pubDate>
-      <guid>https://example.org/posts/my-second-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-second-post&#34;&gt;This is my second post!&lt;/h1&gt;&#xA;&lt;p&gt;If you are seeing this, it means that everything worked!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
-      <pubDate>Mon, 07 Apr 2025 19:15:22 -0400</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;&#xA;&lt;p&gt;This is my blog.&lt;/p&gt;&#xA;&lt;h2 id=&#34;testing-heading-2&#34;&gt;Testing Heading 2&lt;/h2&gt;&#xA;&lt;p&gt;This should be a paragraph if everything goes well.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
