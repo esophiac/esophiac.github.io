@@ -5,7 +5,7 @@ title = 'Marathon History'
 showTableOfContents = true
 +++
 
-![Banner of sunny mountains](/images/sunny_mountain.jpg "sunny mountains")
+![Banner of sunny mountains](/images/sunny_mountain.png "sunny mountains")
 
 This is a list of all of the marathons I've completed so far. I have also run a handful of other races like half marathons, 10 miles races, and 5ks. I attempted a 50 mile race (the JFK50) but had to DNF because of an injury. Part of the goal of this site is to help me prepare for the shorter ultramarathon (50k) that I am running in October 2025. Once I have that under my belt, I will hopefully be able tackle longer distances.
 
